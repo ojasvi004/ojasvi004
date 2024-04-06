@@ -2,8 +2,16 @@
     <img src="PacMan.gif" alt="PacMan">
 </div>
 
-## 🚀 About Me
+<div>
+
+## <img src="https://private-user-images.githubusercontent.com/74038190/243078651-2c0eef4b-7b75-42bd-9722-4bea97a2d532.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTIzODIwNTYsIm5iZiI6MTcxMjM4MTc1NiwicGF0aCI6Ii83NDAzODE5MC8yNDMwNzg2NTEtMmMwZWVmNGItN2I3NS00MmJkLTk3MjItNGJlYTk3YTJkNTMyLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDYlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA2VDA1MzU1NlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThjNWU4MzBkZjAzNmNhNzJiN2UzYmM2YzUzOWQ0YjdhODdjNzJmMmIwYjA5M2EzYTc3MjI4NDk4MmU5MDEzZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.dsqu2G9YDRA8YVeMk-gtYyPDQZCju4aOb2Frgg9ceo0" width="40px" />&nbsp;About Me&nbsp; 
+
 Machine Learning and Web Development enthusiast💻📈
+
+</div>
+
+
+ 
 
 ## Tech Stack
 
