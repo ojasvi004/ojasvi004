@@ -1,7 +1,9 @@
+<div style="display:flex; justify-content:center;">
+    <img src="PacMan.gif" alt="PacMan">
+</div>
 
 ## 🚀 About Me
 Machine Learning and Web Development enthusiast💻📈
-
 
 ## Tech Stack
 
