@@ -1,5 +1,4 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=5001&pause=1000&color=C5BEF9&center=true&vCenter=true&repeat=false&random=false&width=435&height=49&lines=Hello%2C+I'm+Ojasvi!)](https://git.io/typing-svg)
-
 <div>
     <h2 style="text-align:center;"><img src="Rocket.gif" width="40px" />&nbsp;About Me</h2>
     <p style="text-align:center;">🌐 Machine Learning and Web Development enthusiast. <br>
