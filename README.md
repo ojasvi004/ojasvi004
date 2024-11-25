@@ -1,3 +1,3 @@
 hey there!
 
--  I’m currently learning `TypeScript`
+-  currently learning `Django` & `TypeScript`
